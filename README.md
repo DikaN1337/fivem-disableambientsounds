@@ -12,3 +12,6 @@ Este script permite-te desativar todos os sons de fundo do FiveM
 # Other things related to the script
 - [My Steam](https://steamcommunity.com/id/DikaN1337)
 - My discord: " DikaN'#0001
+
+# Shoutouts
+- S/O @NoNameCfg because of the last update!
