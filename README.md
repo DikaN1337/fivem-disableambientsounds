@@ -14,4 +14,4 @@ Este script permite-te desativar todos os sons de fundo do FiveM
 - My discord: " DikaN'#0001
 
 # Shoutouts
-- S/O @NoNameCfg because of the last update!
+- S/O [@NoNameCfg](https://github.com/NoNameCfg) because of the last update!
